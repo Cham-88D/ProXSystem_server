@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "procurementsystemx",
+  "private_key_id": "2a4846b68fdfec49fbdce4036935ccf7a6a488ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8OkBvKlNdYe9A\n2BplbkcRGHQU6wuKhArP2L3ryeNQNOcd+AEl+t1Fw4D039wxtJLDAW7CsUIfrsKS\neUXfhprKGsB/ZOfUyX9iAifhwNDCm7qq6EAixeHto13fGxAKQeXeqwmT16mF52MV\nGd7bokLlUOJGfvC2FjiDewhsiZvx3fRyU0v7KUAEgO+kzfrsoUWAekuBhQvwBLV5\n9BJ0tO6JBX7+D+TO4S5liN61NdUoAh3OEoNou2zVfgmNCyRNpN8osZlvJWKzx0NQ\nYTIwo/IuNMLWmVO4lnNUqA2804y8kfFXnVf2PzJZFgEZjgXmKifp30Q2dYCnXmmD\nJ/+ujr4pAgMBAAECggEABOb0JaZcYcq6q0gq4ShkQ8Q3cGdct2tP8sYqJW7DyPjP\nv3Plkm0m/874gqglOSAtpamEY8qvtlkxVRTr0Ryq1wenqsm10KYSIhB8pGsGpNg0\nc4i1SZKOG0fNb+bpszKwf2zvRMFG93ylaSJxhOvZbSp+8idn3SjVU6ChLAkmHWrx\nuono4OfwTzltoi8li/AuFVd+au8Tm+dJsBw8BMZoEIR70sNqa+qgKjBCCvxCPmCr\nkj8Ju/gol+k8w0XtOMSK8gRskSsgfQPE92n2v5Run5KMZybHZNDx3B45v82bRq89\n2J708Grm9kTlDkBjdbTgMWR2M5vhBWsFYfLji3a6dwKBgQD57vWMRUNYZYABtfNO\nd7b3AYxgXBnqTYtuqIRil0fBHs7Tg7TdAXlo/OJ9F8K2P+z7nscQu1lgN6JTeLs0\n1LCQRgtq0Y7ApqcdhmU7VzfNwA+XNYRCFUzv6q3DRFDkeSG/w20rxhgVo4kXB0zT\nMbvuSxGaCs8PESzcRHHxK5C1YwKBgQDAy90GGzcwg7h7mjIHz19XiqqpQ3D/10i3\nuOzhYjmIEUPXqV16PcmMpGfaSrABY5VairHEEXbc4sbjH5Ut7+2Tq2yTN4TvrCV5\nlAzJzBJYeXfkGzFvMH9htTUhS6Lq0DJlJPqE0sK9cVqFQlu9IIUJtbP0ALE5H2YZ\n/FoXdTpKAwKBgEK2MtqXHku5A/rw6xm1wKObyTFrRAuTWTVXS8bZJHD63S/+Bse6\n/gI1Betn7TQiSgo7rlzb9RZGo1BueGG4p8xKtf90IgtwMEkkN18of5+utTqiMURG\nVTvwwyLM2F6zqnt6GWjGvmUAOrZn32y76LLJXNBmNDCMYBIHPvalr0GLAoGABxw9\npYkBaw+gkSZpq/IQ8RiTHLT5COZ2rxfp3JITzxnb56s+YFDBCyfRELLqdNKoYnN1\nBOcj/Bd9AElc5hnQKD8NPQyyIWi25Rn5ssOM9ahdLJN4KkKeoArfz7+LXZ+aDDLl\n7lobhoMUtI9y9LGrVmVWIqyX3KR0zoaJCA5xvOMCgYEA8RhZBqNtz8+d/Pws/4y9\nn7ZveURsdnClxHm2N9zOLujYi3WsdSqBNgvFkHJYq0gOLDrxkGRrj9KkyRXMgvTD\nOc7YlqxgDTSl7miF7pJpcehgbNS/3WFFO42lsFZ4Uyia/ygABPY0Kotm0/AbRnXJ\nE1bgOrlv8fowRSZKHSk8yVc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wmez4@procurementsystemx.iam.gserviceaccount.com",
+  "client_id": "100597013256208694456",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wmez4%40procurementsystemx.iam.gserviceaccount.com"
+}
