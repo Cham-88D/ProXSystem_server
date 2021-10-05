@@ -3,7 +3,7 @@ const firebaseAuthenticationModel = require('../models/firebaseAuthentication.mo
 
 // get user controller
 exports.getUserType =  async (req, res)=> {
-    await firebaseAuthenticationModel.getUserType(req.body.uid, function (error, result) {
+    await firebaseAuthenticationModel.getUserType(req.params.id, function (error, result) {
         if (error) {
             res.send(error);
         } else {

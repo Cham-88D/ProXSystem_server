@@ -20,13 +20,15 @@ exports.getUserType = async (req, res) => {
 exports.createUserProfile = async(req, res) => {
     let data = req.body;
     const schema = Joi.object({
-        email: Joi.string().email({ 
+        email: Joi.string().email({
             minDomainSegments: 2,
-            tlds: { allow: ['com', 'net'] } 
+            tlds: { allow: ['com', 'net'] }
         }).required(),
         password: Joi.string().min(7).max(50).required(),
         phoneNumber: Joi.string().phoneNumber().length(12),
-        role:Joi.string().min(3).max(10).required()
+        role:Joi.string().min(3).max(10).required(),
+        fileName:Joi.string().min(4),
+        name:Joi.string().min(5)
     });
     const {error} =  schema.validate(data);
     if (error) {

@@ -3,12 +3,12 @@ const  router = express.Router();
 const firebaseAuthenticationValidator = require('../validator/firebaseAuthentication.validator');
 
 //get user type
-router.post('/getUserType', firebaseAuthenticationValidator.getUserType);
+router.post('/user/:id', firebaseAuthenticationValidator.getUserType);
 
 //create new user
-router.post('/createUser', firebaseAuthenticationValidator.createUserProfile);
+router.post('/user', firebaseAuthenticationValidator.createUserProfile);
 
 //delete user
-router.post('/deleteUser', firebaseAuthenticationValidator.deleteUserProfile);
+router.delete('/user/:id', firebaseAuthenticationValidator.deleteUserProfile);
 
 module.exports = router;
